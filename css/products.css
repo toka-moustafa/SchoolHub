@@ -1,0 +1,17 @@
+main{
+    text-transform: capitalize;
+}
+.card{
+    width: 40%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+button{
+   
+    text-align: center;
+}
+.card img{
+    width: 200px;
+}
